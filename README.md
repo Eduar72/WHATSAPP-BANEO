@@ -1,6 +1,3 @@
-# WHATSAPP-BANO
-este git funciona para banear el WhatsApp de la victima 
-pero no siempre funciona el baneo por cuestiones del token 
-el script solo funciona para mexico compañia telcel 
-# NINGUN SISTEMA ES SEGURO
-# CREADOR : HACKING PCH
+# WHATSAPP-BANEO
+Fixeo Los Bugs Del WhatsApp-Baneo Y Adaptado A +54 ARG 
+# SANTIMODDZ
